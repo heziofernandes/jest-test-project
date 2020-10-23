@@ -7,3 +7,18 @@
 * Study repository
 
 Integrated with Pipeline [Circle CI](https://app.circleci.com/pipelines/github/heziofernandes/jest-test-project) and [Code Climate](https://codeclimate.com/github/heziofernandes/jest-test-project) code analysis tool.
+
+## setup
+
+Install the dependencies:<br/>
+Make sure [Node.js](https://nodejs.org/) is installed <br/>
+Navigate to the root of the repo <br/>
+#### npm
+```bash
+npm install
+```
+Run the tests:
+#### All tests implemented
+```bash
+npm test
+```
